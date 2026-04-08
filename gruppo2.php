@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/style.css">
+    <title>Web Security 4AT - Sicurezza dei siti web</title>
+</head>
+
+<body>
+    <!-- <?php include "components/header.php"; ?> -->
+    <span class="dynamicPageNavigationSpan" style="font-size: x-small;"><b>Dynamic</b> > <b>page</b> > <b>navigation</b></span>
+    <h1>La sicurezza dei siti web</h1>
+
+    <div class="body">
+        <article>
+
+            <p>
+                La sicurezza dei siti web è l'insieme di tecniche, strumenti e pratiche utilizzate per proteggere i siti
+                internet da attacchi informatici, accessi non autorizzati e furti di dati. Oggi è un elemento
+                fondamentale per garantire la protezione degli utenti e delle loro informazioni online.
+            </p>
+
+            <img class="preImg"
+                src="https://www.kaspersky.it/content/it-it/images/repository/isc/2021/web-security-1.jpg">
+
+            <h2>Proteggere il web significa proteggere i dati degli utenti</h2>
+
+            <p>
+                Ogni sito web connesso a Internet può essere un possibile bersaglio per hacker o software malevoli.
+                Gli attacchi informatici possono avere diversi obiettivi: rubare dati personali, bloccare il
+                funzionamento di un sito oppure diffondere malware tra gli utenti.
+
+                Tra le minacce più comuni troviamo:
+
+                <br><br>
+                <b>SQL Injection</b>: attacco che sfrutta la vulnerabilità nel database per accedere ai dati.<br>
+                <b>Cross-Site Scripting (XSS)</b>: inserimento di codice malevolo nelle pagine web.<br>
+                <b>Attacchi DDoS</b>: sovraccarico dei server con milioni di richieste fino a bloccare il sito.<br>
+                <b>Malware</b>: software dannosi che possono infettare il sito e i suoi visitatori.
+
+                <br><br>
+                Per ridurre il rischio di attacchi è importante utilizzare protocolli sicuri come HTTPS,
+                mantenere aggiornati software e plugin, usare password robuste e monitorare costantemente
+                il traffico del sito.
+            </p>
+
+            <div class="containerMaster proTips">
+                <div class="heading">
+                    <svg class="ok" xmlns="http://www.w3.org/2000/svg" height="24px"
+                        viewBox="0 -960 960 960" width="24px">
+                        <path
+                            d="m438-338 226-226-57-57-169 169-84-84-57 57 141 141Zm42 258q-139-35-229.5-159.5T160-516v-244l320-120 320 120v244q0 152-90.5 276.5T480-80Z" />
+                    </svg>
+                    <h3 class="proTipsTitle">Consigli utili per la sicurezza dei siti web</h3>
+                </div>
+
+                <div class="container proTips">
+
+                    <div class="card heading">
+                        <svg class="ok" xmlns="http://www.w3.org/2000/svg" height="24px"
+                            viewBox="0 -960 960 960" width="24px">
+                            <path d="m424-296 282-282-56-56-226 226-114-114-56 56 170 170Z" />
+                        </svg>
+                        <p>Utilizzare sempre il protocollo HTTPS per criptare la comunicazione tra browser e server.</p>
+                    </div>
+
+                    <div class="card heading">
+                        <svg class="ok" xmlns="http://www.w3.org/2000/svg" height="24px"
+                            viewBox="0 -960 960 960" width="24px">
+                            <path d="m424-296 282-282-56-56-226 226-114-114-56 56 170 170Z" />
+                        </svg>
+                        <p>Aggiornare regolarmente CMS, plugin e software per evitare vulnerabilità.</p>
+                    </div>
+
+                    <div class="card heading">
+                        <svg class="ok" xmlns="http://www.w3.org/2000/svg" height="24px"
+                            viewBox="0 -960 960 960" width="24px">
+                            <path d="m424-296 282-282-56-56-226 226-114-114-56 56 170 170Z" />
+                        </svg>
+                        <p>Utilizzare password complesse e attivare l'autenticazione a due fattori.</p>
+                    </div>
+
+                    <div class="card heading">
+                        <svg class="ok" xmlns="http://www.w3.org/2000/svg" height="24px"
+                            viewBox="0 -960 960 960" width="24px">
+                            <path d="m424-296 282-282-56-56-226 226-114-114-56 56 170 170Z" />
+                        </svg>
+                        <p>Eseguire backup regolari del sito per poter recuperare i dati in caso di attacco.</p>
+                    </div>
+
+                </div>
+            </div>
+
+            <br>
+
+            <div class="containerMaster mustNots">
+
+                <div class="heading">
+                    <svg class="notOk" xmlns="http://www.w3.org/2000/svg" height="24px"
+                        viewBox="0 -960 960 960" width="24px">
+                        <path
+                            d="M480-80q-139-35-229.5-159.5T160-516v-244l320-120 320 120v244q0 152-90.5 276.5T480-80Z" />
+                    </svg>
+                    <h3 class="mustNotsTitle">Cose da non fare nella sicurezza dei siti web</h3>
+                </div>
+
+                <div class="container mustNots">
+
+                    <div class="card heading">
+                        <svg class="notOk" xmlns="http://www.w3.org/2000/svg" height="24px"
+                            viewBox="0 -960 960 960" width="24px">
+                            <path d="m336-280 144-144 144 144 56-56-144-144 144-144-56-56-144 144-144-144-56 56Z" />
+                        </svg>
+                        <p>Non utilizzare password deboli o facilmente indovinabili.</p>
+                    </div>
+
+                    <div class="card heading">
+                        <svg class="notOk" xmlns="http://www.w3.org/2000/svg" height="24px"
+                            viewBox="0 -960 960 960" width="24px">
+                            <path d="m336-280 144-144 144 144 56-56-144-144 144-144-56-56-144 144-144-144-56 56Z" />
+                        </svg>
+                        <p>Non lasciare plugin o software del sito non aggiornati.</p>
+                    </div>
+
+                    <div class="card heading">
+                        <svg class="notOk" xmlns="http://www.w3.org/2000/svg" height="24px"
+                            viewBox="0 -960 960 960" width="24px">
+                            <path d="m336-280 144-144 144 144 56-56-144-144 144-144-56-56-144 144-144-144-56 56Z" />
+                        </svg>
+                        <p>Non salvare dati sensibili senza sistemi di protezione e crittografia.</p>
+                    </div>
+
+                    <div class="card heading">
+                        <svg class="notOk" xmlns="http://www.w3.org/2000/svg" height="24px"
+                            viewBox="0 -960 960 960" width="24px">
+                            <path d="m336-280 144-144 144 144 56-56-144-144 144-144-56-56-144 144-144-144-56 56Z" />
+                        </svg>
+                        <p>Non ignorare aggiornamenti di sicurezza o segnali di attività sospette.</p>
+                    </div>
+
+                </div>
+            </div>
+
+            <h3 class="customBlue">"La sicurezza non è un prodotto, ma un processo."</h3>
+
+            <div class="heading">
+                <svg class="customBlue" xmlns="http://www.w3.org/2000/svg" height="24px"
+                    viewBox="0 -960 960 960" width="24px">
+                    <path
+                        d="M480-80q-139-35-229.5-159.5T160-516v-244l320-120 320 120v244q0 152-90.5 276.5T480-80Z" />
+                </svg>
+                <p><b>Bruce Schneier</b></p>
+            </div>
+
+        </article>
+
+        <nav>
+
+            <div class="card args">
+                <div class="heading">
+                    <h4>Argomenti Correlati</h4>
+                </div>
+
+                <ul class="listOfArgs">
+                    <li class="card"><a href="">SQL Injection</a></li>
+                    <br>
+                    <li class="card"><a href="">Attacchi DDoS</a></li>
+                    <br>
+                    <li class="card"><a href="">Cross Site Scripting (XSS)</a></li>
+                    <br>
+                    <li class="card"><a href="">HTTPS e crittografia</a></li>
+                    <br>
+                    <li class="card"><a href="">Autenticazione e password</a></li>
+                </ul>
+            </div>
+
+            <br>
+
+            <div class="card created">
+                <div class="heading">
+                    <h4>Articolo creato da:</h4>
+                </div>
+
+                <ul>
+                    <li>Baroni Lorenzo</li>
+                    <li>Dimiccoli Luca</li>
+                    <li>Minuti Mattia</li>
+                    <li>Bitozzi Daniele</li>
+                </ul>
+
+            </div>
+
+        </nav>
+
+    </div>
+
+    <!-- <?php include "components/footer.php" ?> -->
+
+</body>
+
+</html>

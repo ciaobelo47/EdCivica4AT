@@ -1,6 +1,6 @@
 @font-face {
     font-family: GoogleSansFlex;
-    src: url("./fonts/GoogleSansFlex.ttf");
+    src: url("fonts/GoogleSansFlex.ttf");
 }
 
 :root {
@@ -22,7 +22,7 @@ html {
 }
 
 body {
-    width: 80%;
+    /*width: 80%;*/
     margin: 0 auto;
 }
 
@@ -31,11 +31,16 @@ a {
     color: inherit;
 }
 
+h1 {
+    padding: 1.5%;
+}
+
 .dynamicPageNavigationSpan {
     font-size: x-small;
 }
 
 .body {
+    padding: 1.5%;
     display: grid;
     grid-template-columns: 74% 24%;
     column-gap: 1%;
@@ -132,4 +137,23 @@ a {
     .card {
         background-color: rgb(199, 238, 251);
     }
+}
+
+.header {
+    background: #ffffff;
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #e1e4e8;
+}
+
+.logo {
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+.navbar a {
+    margin: 0 15px;
+    font-weight: 500;
 }

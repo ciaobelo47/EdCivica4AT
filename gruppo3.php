@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/style.css">
+    <title>Web Security 4AT - Copyright</title>
+</head>
+
+<body>
+    <?php include "components/header.php"; ?>
+    <span class="dynamicPageNavigationSpan" style="font-size: x-small;"><b>Dynamic</b> > <b>page</b> > <b>navigation</b></span>
+    <h1>Copyright</h1>
+    <div class="body">
+        <article>
+            <p>Il copyright è un diritto che protegge le opere creative come musica, film, immagini e testi. Garantisce all’autore il controllo su come la sua opera viene usata e distribuita. Su Internet è molto importante perché condividere contenuti è facile, ma non sempre è legale. Rispettare il copyright significa riconoscere il lavoro degli altri ed evitare problemi legali.</p>
+            <!-- un immagine che presenti l'argomento -->
+            <img class="preImg" src="https://www.altalex.com/~/media/Images/Lex/Commerciale/copyright-gi-1162783454%20jpg.jpg">
+            <h2>Dietro ogni opera c’è una firma invisibile che ne custodisce il valore e la storia.</h2>
+            <p>Il copyright è un insieme di diritti legali che proteggono le opere creative e originali, come libri, musica, film, fotografie e software, garantendo all’autore il controllo esclusivo sull’utilizzo, la diffusione e la modifica delle proprie creazioni.
+            Questi diritti nascono automaticamente nel momento in cui l’opera viene realizzata e fissata in una forma concreta senza bisogno di registrazione formale. 
+            Il copyright consente all’autore non solo di essere riconosciuto come creatore dell’opera, ma anche di decidere come essa può essere utilizzata da altri, ad esempio se può essere copiata, distribuita, pubblicata o sfruttata a fini economici.</p>
+            <div class="containerMaster proTips">
+                <div class="heading">
+                    <svg class="ok" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="m438-338 226-226-57-57-169 169-84-84-57 57 141 141Zm42 258q-139-35-229.5-159.5T160-516v-244l320-120 320 120v244q0 152-90.5 276.5T480-80Zm0-84q104-33 172-132t68-220v-189l-240-90-240 90v189q0 121 68 220t172 132Zm0-316Z"/></svg>
+                    <h3 class="proTipsTitle">Consigli utili per il Copyright</h3>
+                </div>
+                <div class="container proTips">
+                    <div class="card heading">
+                        <svg class="ok" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z"/></svg>
+                        <p>Ricorda che la protezione è automatica</p>
+                    </div>
+                    <div class="card heading">
+                        <svg class="ok" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z"/></svg>
+                        <p>Cita sempre le fonti</p>
+                    </div>
+                    <div class="card heading">
+                        <svg class="ok" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z"/></svg>
+                        <p>Rispetta sempre i diritti dell'autore</p>
+                    </div>
+                    <div class="card heading">
+                        <svg class="ok" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z"/></svg>
+                        <p>Controlla le licenze</p>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div class="containerMaster mustNots">
+                <div class="heading">
+                    <svg class="notOk" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="m754-318-60-62q12-32 19-66.5t7-69.5v-189l-240-90-146 55-62-62 208-78 320 120v244q0 51-11.5 101T754-318Zm38 262L662-186q-38 39-84.5 65.5T480-80q-139-35-229.5-159.5T160-516v-172L56-792l56-56 736 736-56 56ZM423-425Zm91-135Zm-34 396q35-11 67-31t59-47L240-608v92q0 121 68 220t172 132Z"/></svg>
+                    <h3 class="mustNotsTitle">Divieti/Cose da non fare per il Copyright</h3>
+                </div>
+                <div class="container mustNots">
+                    <div class="card heading">
+                        <svg class="notOk" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="m336-280 144-144 144 144 56-56-144-144 144-144-56-56-144 144-144-144-56 56 144 144-144 144 56 56ZM480-80q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z"/></svg>
+                        <p>Non copiare contenuti senza permesso</p>
+                    </div>
+                    <div class="card heading">
+                        <svg class="notOk" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="m336-280 144-144 144 144 56-56-144-144 144-144-56-56-144 144-144-144-56 56 144 144-144 144 56 56ZM480-80q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z"/></svg>
+                        <p>Non rimuovere il nome dell'autore</p>
+                    </div>
+                    <div class="card heading">
+                        <svg class="notOk" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="m336-280 144-144 144 144 56-56-144-144 144-144-56-56-144 144-144-144-56 56 144 144-144 144 56 56ZM480-80q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z"/></svg>
+                        <p>Non usare contenuti protetti per scopi commerciali</p>
+                    </div>
+                    <div class="card heading">
+                        <svg class="notOk" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="m336-280 144-144 144 144 56-56-144-144 144-144-56-56-144 144-144-144-56 56 144 144-144 144 56 56ZM480-80q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z"/></svg>
+                        <p>Non pensare che 'è online quindi è libero'</p>
+                    </div>
+                </div>
+            </div>
+            <h3 class="customBlue">"Copyright is meant to encourage the creation of art and knowledge by protecting the rights of creators"<br>
+                                    "Il copyright serve a incoraggiare la creazione di arte e conoscenza proteggendo i diritti dei creatori"</h3>
+            <div class="heading">
+                <svg class="customBlue" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="M480-80q-139-35-229.5-159.5T160-516v-244l320-120 320 120v244q0 152-90.5 276.5T480-80Zm0-84q97-30 162-118.5T718-480H480v-315l-240 90v207q0 7 2 18h238v316Z"/></svg>
+                <p><b>Word Intellectual Property Organization</b></p>
+            </div>
+        </article>
+
+        <nav>
+            <div class="card args">
+                <div class="heading">
+                    <svg class="customBlue" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="m300-300 280-80 80-280-280 80-80 280Zm180-120q-25 0-42.5-17.5T420-480q0-25 17.5-42.5T480-540q25 0 42.5 17.5T540-480q0 25-17.5 42.5T480-420Zm0 340q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q133 0 226.5-93.5T800-480q0-133-93.5-226.5T480-800q-133 0-226.5 93.5T160-480q0 133 93.5 226.5T480-160Zm0-320Z"/></svg>
+                    <h4>Argomenti Correlati</h4>
+                </div>
+                <ul class="listOfArgs">
+                    <li class="card">
+                        <a href="">Gruppo 1</a>
+                    </li>
+                    <br>
+                    <li class="card">
+                        <a href="">Gruppo 2</a>
+                    </li>
+                    <br>
+                    <li class="card">
+                        <a href="">Gruppo 3</a>
+                    </li>
+                    <br>
+                    <li class="card">
+                        <a href="">Gruppo 4</a>
+                    </li>
+                    <br>
+                    <li class="card">
+                        <a href="">Gruppo 5</a>
+                    </li>
+                </ul>
+            </div>
+            <br>
+            <div class="card created">
+                <div class="heading">
+                    <svg style="fill: aliceblue;" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"><path d="M160-400v-80h280v80H160Zm0-160v-80h440v80H160Zm0-160v-80h440v80H160Zm360 560v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q8 9 12.5 20t4.5 22q0 11-4 22.5T863-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z"/></svg>
+                    <h4>Articolo creato da:</h4>
+                </div>
+                <ul>
+                    <li>Alessio Maniscalchi</li>
+                    <li>Alessio Casalini</li>
+                    <li>Fabio Benvenuti</li>
+                    <li>Stefano Coscetti</li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</body>
+
+</html>
