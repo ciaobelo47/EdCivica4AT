@@ -27,7 +27,7 @@
         <div class="hero-right">
             <div class="hero-img-container">
                 <img src="https://www.digife.it/wp-content/uploads/2016/06/sicurezza-siti-web-digife.jpg" class="hero-img" alt="Hero Image">
-                <p class="img-caption">“La sicurezza non è un prodotto, è un processo.”</p>
+                <p class="img-caption">"La sicurezza non è un prodotto che si acquista, ma un processo che si mette in atto." <br> - Kevin Mitnick </p>
             </div>
         </div>
     </section>

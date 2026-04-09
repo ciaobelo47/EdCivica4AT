@@ -14,7 +14,7 @@
     <div class="body">
         <article>
             <p>Ogni giorno usiamo decine di account online, ma spesso non ci fermiamo a pensare a quanto siano davvero al sicuro. La password è la prima cosa che protegge i nostri dati, eppure moltissime persone continuano ad usarne di debolissime o, peggio sempre le stesse per tutto.</p>
-            <img class="preImg" src="86557.jpg">
+            <img class="preImg" src="https://www.dgroove.it/wp-content/uploads/2019/07/password-sicura.jpg">
             <h2>Una password debole è come lasciare la porta di casa aperta</h2>
             <p>Quando si parla di sicurezza informatica, la password è il punto di partenza. Una password creata male può permettere a chiunque di accedere ai nostri account in pochissimo tempo, anche senza essere un esperto. Esistono infatti programmi appositi che provano migliaia di combinazioni al secondo, e se la nostra password è una parola comune o una sequenza banale che viene indovinata quasi subito. Per questo motivo è importante usare password lunghe, almeno 12 caratteri, che mescolino lettere maiuscole e minuscole, numeri e simboli come @, # oppure !. Anche il Regolamento Europeo sulla protezione dei dati sottolinea l'obbligo di adottare misure adeguate per proteggere le informazioni personali, e questo vale sia per le aziende che per i singoli utenti. Un altro strumento molto utile è il gestore di password, un programma che crea e salva automaticamente le credenziali al posto nostro, così non dobbiamo ricordare tutto a memoria. Infine, quando possibile, è sempre meglio attivare l'autenticazione a due fattori: anche se qualcuno riesce a scoprire la nostra password, senza il secondo codice non riesce comunque ad entrare.</p>
             <div class="containerMaster proTips">
@@ -86,12 +86,12 @@
                     </div>
                 </div>
             </div>
-            <h3 class="customBlue">"La sicurezza non è un prodotto, ma un processo."</h3>
+            <h3 class="customBlue">"Le password sono come i gioielli: è bene non lasciarle in giro, non mostrarle a nessuno e cambiarle spesso."</h3>
             <div class="heading">
                 <svg class="customBlue" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px">
                     <path d="M480-80q-139-35-229.5-159.5T160-516v-244l320-120 320 120v244q0 152-90.5 276.5T480-80Zm0-84q97-30 162-118.5T718-480H480v-315l-240 90v207q0 7 2 18h238v316Z" />
                 </svg>
-                <p><b>Bruce Schneier, esperto di sicurezza informatica</b></p>
+                <p><b>Bill Gates, Fondatore di Microsoft</b></p>
             </div>
         </article>
 

@@ -21,7 +21,7 @@
                 fondamentale per garantire la protezione degli utenti e delle loro informazioni online.
             </p>
 
-            <img class="preImg" src="https://www.kaspersky.it/content/it-it/images/repository/isc/2021/web-security-1.jpg">
+            <img class="preImg" src="http://milleprovedidb.altervista.org/PP.jpg">
 
             <h2>Proteggere il web significa proteggere i dati degli utenti</h2>
 
