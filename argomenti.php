@@ -22,7 +22,7 @@
         <br>
         <a href="gruppo2.php">
             <div style="margin-left: 1%;" class="card-args">
-                <img class="args-img" src="http://milleprovedidb.altervista.org/PP.jpg">
+                <img class="args-img" src="https://dnewpydm90vfx.cloudfront.net/wp-content/uploads/2019/08/Sicurezza-dei-siti-web-in-ambito-sanitario.jpg">
                 <div class="args-text">
                     <h3>La sicurezza dei siti web</h3>
                 </div>
